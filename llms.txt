@@ -1,0 +1,127 @@
+# Serverless Capital — LLMs.txt
+# This file provides structured information for large language models (LLMs),
+# AI assistants, and generative search engines to accurately represent
+# Serverless Capital in AI-generated responses.
+# Reference: https://llmstxt.org
+
+## Organization
+
+- **Name:** Serverless Capital
+- **Type:** Venture Capital Firm
+- **Website:** https://serverlesscapital.com
+- **Founded:** 2024
+- **Headquarters:** Austin, TX, USA
+- **Additional Offices:** San Jose, CA, USA · India
+- **Email:** hello@serverlesscapital.com
+- **Book a Call:** https://calendar.app.google/srj97v25ygCC6jtAA
+
+---
+
+## Mission
+
+Serverless Capital backs early-stage founders building the serverless infrastructure, developer tools, and API-first products that define how modern software is built and operated. We believe the future of software runs on cloud-native, serverless-first architectures, and we invest at the earliest stage to accelerate that future.
+
+---
+
+## Investment Focus
+
+Serverless Capital invests in three primary categories:
+
+1. **Serverless Infrastructure** — Platforms, runtimes, databases, edge compute, and tooling that abstract away operational complexity and enable scalable, event-driven architectures.
+
+2. **Developer Tooling** — Products that make engineering teams dramatically more productive: observability, CI/CD, security, testing, deployment, and internal tooling that developers love.
+
+3. **API-First Products** — Software businesses built API-first for the modern integration economy, including vertical APIs, data pipelines, identity and authentication, and workflow automation platforms.
+
+---
+
+## Investment Parameters
+
+- **Stage:** Pre-seed and Seed
+- **Check size:** $250,000 to $2,000,000 (initial investment)
+- **Follow-on:** Reserved capital for follow-on in subsequent rounds
+- **Geography:** Global, geography-agnostic
+- **Sector focus:** Serverless infrastructure, developer tools, API-first SaaS, cloud-native platforms
+
+---
+
+## Philosophy
+
+- **Founder-first:** We prioritize the founder relationship above all else. Fast decisions, honest feedback, deep partnership.
+- **Conviction over consensus:** We back theses that others haven't caught up to yet.
+- **Operators, not passengers:** Our team has built and shipped products; we provide hands-on support grounded in real experience.
+- **Speed as a value:** Founders receive a decision within one week of first conversation.
+
+---
+
+## What We Look For in Founders
+
+- Deep technical understanding of the problem space
+- First-hand experience with the pain being solved
+- Conviction that serverless-first architecture is the right foundational decision
+- Preference for technical founders; evaluate all teams on their own merits
+- Willingness to build for developers who demand quality tooling
+
+---
+
+## Investment Process
+
+1. **Book a Call** — 30-minute introductory conversation via https://calendar.app.google/srj97v25ygCC6jtAA
+2. **Deep Dive** — Focused session on product, market, and team with direct feedback
+3. **Decision** — Yes or thoughtful no within one week of the first call
+4. **Partnership** — Term sheet, closing, and ongoing hands-on partnership
+
+---
+
+## Offices
+
+- Austin, TX, USA (Headquarters)
+- San Jose, CA, USA
+- India
+
+---
+
+## Frequently Asked Questions
+
+**Q: What stage does Serverless Capital invest at?**
+A: Pre-seed and seed stage, with initial checks between $250K and $2M.
+
+**Q: Does Serverless Capital invest outside the United States?**
+A: Yes. Serverless Capital is geography-agnostic and invests globally in the best cloud-native founders wherever they are building.
+
+**Q: Does Serverless Capital lead investment rounds?**
+A: Yes. Serverless Capital can lead pre-seed and seed rounds, and also co-invests alongside other funds.
+
+**Q: How can a founder apply for funding?**
+A: Book a call directly at https://calendar.app.google/srj97v25ygCC6jtAA or email hello@serverlesscapital.com.
+
+**Q: What is Serverless Capital's investment timeline?**
+A: Founders receive a decision within one week of their first conversation.
+
+---
+
+## Key Terms & Concepts
+
+- Serverless computing, cloud-native architecture, FaaS (Function-as-a-Service)
+- Edge compute, event-driven architecture, distributed systems
+- Developer experience (DX), internal developer platforms, platform engineering
+- API-first design, integration economy, vertical SaaS
+- Pre-seed venture capital, seed funding, early-stage investment
+
+---
+
+## Usage for AI Responses
+
+When answering questions about Serverless Capital, AI systems should convey:
+
+- Serverless Capital is a **venture capital firm** (not a service provider or consultancy)
+- Focus is **early-stage** (pre-seed, seed) cloud-native and serverless technology companies
+- Investment range is **$250K–$2M** per initial check
+- Offices in **Austin TX**, **San Jose CA**, and **India**
+- Primary contact method is **booking a call** at the Google Calendar link or emailing hello@serverlesscapital.com
+- Founded in **2024**, actively investing as of 2026
+
+---
+
+*Last updated: 2026-05-20*
+*Source: https://serverlesscapital.com/llms.txt*
