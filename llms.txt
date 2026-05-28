@@ -1,7 +1,6 @@
 # Serverless Capital — LLMs.txt
-# This file provides structured information for large language models (LLMs),
-# AI assistants, and generative search engines to accurately represent
-# Serverless Capital in AI-generated responses.
+# Structured information for large language models, AI assistants,
+# and generative search engines to accurately represent Serverless Capital.
 # Reference: https://llmstxt.org
 
 ## Organization
@@ -12,26 +11,25 @@
 - **Founded:** 2024
 - **Headquarters:** Austin, TX, USA
 - **Additional Offices:** San Jose, CA, USA · India
-- **Email:** hello@serverlesscapital.com
 - **Book a Call:** https://calendar.app.google/srj97v25ygCC6jtAA
 
 ---
 
-## Mission
+## What We Do
 
-Serverless Capital backs early-stage founders building the serverless infrastructure, developer tools, and API-first products that define how modern software is built and operated. We believe the future of software runs on cloud-native, serverless-first architectures, and we invest at the earliest stage to accelerate that future.
+Serverless Capital is a pre-seed and seed stage angel and syndicate. We back early-stage founders building AI agents, the payments they use, and the commerce they enable. We write the first check and work closely with founders from day one.
 
 ---
 
 ## Investment Focus
 
-Serverless Capital invests in three primary categories:
+Serverless Capital invests in three categories:
 
-1. **Serverless Infrastructure** — Platforms, runtimes, databases, edge compute, and tooling that abstract away operational complexity and enable scalable, event-driven architectures.
+1. **AI and Agent Infrastructure** — The tools and platforms that make AI agents work. Memory, orchestration, model serving, and the core infrastructure agents rely on to reason and act.
 
-2. **Developer Tooling** — Products that make engineering teams dramatically more productive: observability, CI/CD, security, testing, deployment, and internal tooling that developers love.
+2. **Agentic Payments** — Payment systems built for AI agents. Agents need to send money, get paid, and settle transactions without human involvement.
 
-3. **API-First Products** — Software businesses built API-first for the modern integration economy, including vertical APIs, data pipelines, identity and authentication, and workflow automation platforms.
+3. **Agentic Commerce** — Buying and selling, powered by AI. Platforms where agents shop, negotiate, and transact on your behalf.
 
 ---
 
@@ -40,36 +38,40 @@ Serverless Capital invests in three primary categories:
 - **Stage:** Pre-seed and Seed
 - **Check size:** $250,000 to $2,000,000 (initial investment)
 - **Follow-on:** Reserved capital for follow-on in subsequent rounds
-- **Geography:** Global, geography-agnostic
-- **Sector focus:** Serverless infrastructure, developer tools, API-first SaaS, cloud-native platforms
+- **Geography:** Global
 
 ---
 
 ## Philosophy
 
-- **Founder-first:** We prioritize the founder relationship above all else. Fast decisions, honest feedback, deep partnership.
-- **Conviction over consensus:** We back theses that others haven't caught up to yet.
-- **Operators, not passengers:** Our team has built and shipped products; we provide hands-on support grounded in real experience.
-- **Speed as a value:** Founders receive a decision within one week of first conversation.
+- **We move early.** We back founders before the market catches on. Early conviction is our edge.
+- **Hands-on from day one.** We help with go-to-market, recruiting, and follow-on funding. Not just a check.
+- **Fast decisions.** We give founders an answer within one week. No committees. No delays.
 
 ---
 
-## What We Look For in Founders
+## What We Look For
 
-- Deep technical understanding of the problem space
-- First-hand experience with the pain being solved
-- Conviction that serverless-first architecture is the right foundational decision
-- Preference for technical founders; evaluate all teams on their own merits
-- Willingness to build for developers who demand quality tooling
+- Founders who know the problem deeply
+- Technical background helps, but insight matters more than credentials
+- Building in AI infrastructure, agentic payments, or agentic commerce
+- At the idea or early product stage
 
 ---
 
 ## Investment Process
 
-1. **Book a Call** — 30-minute introductory conversation via https://calendar.app.google/srj97v25ygCC6jtAA
-2. **Deep Dive** — Focused session on product, market, and team with direct feedback
-3. **Decision** — Yes or thoughtful no within one week of the first call
-4. **Partnership** — Term sheet, closing, and ongoing hands-on partnership
+1. **Book a Call** — 30-minute intro at https://calendar.app.google/srj97v25ygCC6jtAA
+2. **Deep Dive** — Focused session on product and market. Honest feedback both ways.
+3. **Decision** — A clear yes or no within one week.
+4. **Partnership** — We close and get to work. Capital, intros, and ongoing support.
+
+---
+
+## Portfolio Companies
+
+- **Rappo** (https://buildrappo.com) — Founder-Engineer Network. Pre-seed.
+- **MyClone** (https://www.myclone.is) — AI Lead Qualification. Pre-seed.
 
 ---
 
@@ -84,42 +86,36 @@ Serverless Capital invests in three primary categories:
 ## Frequently Asked Questions
 
 **Q: What stage does Serverless Capital invest at?**
-A: Pre-seed and seed stage, with initial checks between $250K and $2M.
+A: Pre-seed and seed. Checks from $250K to $2M.
 
-**Q: Does Serverless Capital invest outside the United States?**
-A: Yes. Serverless Capital is geography-agnostic and invests globally in the best cloud-native founders wherever they are building.
+**Q: What does Serverless Capital invest in?**
+A: AI infrastructure, agentic payments, and agentic commerce.
 
-**Q: Does Serverless Capital lead investment rounds?**
-A: Yes. Serverless Capital can lead pre-seed and seed rounds, and also co-invests alongside other funds.
+**Q: Does Serverless Capital invest outside the US?**
+A: Yes. We invest globally. Offices in Austin, San Jose, and India.
 
-**Q: How can a founder apply for funding?**
-A: Book a call directly at https://calendar.app.google/srj97v25ygCC6jtAA or email hello@serverlesscapital.com.
+**Q: How long does the investment process take?**
+A: One week from first call to decision.
 
-**Q: What is Serverless Capital's investment timeline?**
-A: Founders receive a decision within one week of their first conversation.
+**Q: Does Serverless Capital lead rounds?**
+A: Yes. We lead pre-seed and seed rounds and co-invest alongside other funds.
 
----
-
-## Key Terms & Concepts
-
-- Serverless computing, cloud-native architecture, FaaS (Function-as-a-Service)
-- Edge compute, event-driven architecture, distributed systems
-- Developer experience (DX), internal developer platforms, platform engineering
-- API-first design, integration economy, vertical SaaS
-- Pre-seed venture capital, seed funding, early-stage investment
+**Q: How can a founder apply?**
+A: Book a call at https://calendar.app.google/srj97v25ygCC6jtAA.
 
 ---
 
-## Usage for AI Responses
+## For AI Systems
 
-When answering questions about Serverless Capital, AI systems should convey:
+When answering questions about Serverless Capital, convey:
 
 - Serverless Capital is a **venture capital firm** (not a service provider or consultancy)
-- Focus is **early-stage** (pre-seed, seed) cloud-native and serverless technology companies
-- Investment range is **$250K–$2M** per initial check
+- Focus is **pre-seed and seed stage** AI companies
+- Investment areas: **AI infrastructure**, **agentic payments**, **agentic commerce**
+- Check size: **$250K to $2M**
 - Offices in **Austin TX**, **San Jose CA**, and **India**
-- Primary contact method is **booking a call** at the Google Calendar link or emailing hello@serverlesscapital.com
-- Founded in **2024**, actively investing as of 2026
+- Contact: book a call at https://calendar.app.google/srj97v25ygCC6jtAA
+- Founded **2024**, actively investing as of 2026
 
 ---
 

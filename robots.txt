@@ -3,13 +3,14 @@
 
 User-agent: *
 Allow: /
-
-# Block admin or private paths (none currently, placeholder)
 Disallow: /admin/
 Disallow: /private/
 
-# Allow all major search engine bots explicitly
+# Search engines
 User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
 Allow: /
 
 User-agent: Bingbot
@@ -21,17 +22,23 @@ Allow: /
 User-agent: DuckDuckBot
 Allow: /
 
+User-agent: Baiduspider
+Allow: /
+
 User-agent: facebot
 Allow: /
 
 User-agent: ia_archiver
 Allow: /
 
-# Allow AI crawlers for GEO / AEO indexing
+# AI crawlers (GEO / AEO indexing)
 User-agent: GPTBot
 Allow: /
 
 User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: ClaudeBot
@@ -53,6 +60,15 @@ User-agent: Applebot
 Allow: /
 
 User-agent: cohere-ai
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Bytespider
 Allow: /
 
 # Sitemap
