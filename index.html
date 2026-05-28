@@ -397,14 +397,25 @@
     }
     .nav__links a:hover { color: var(--primary); }
 
-    .nav__actions { display: flex; align-items: center; gap: 12px; }
+    .nav__actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    /* Nav CTA: smaller than page-level buttons, flush with container edge */
+    .nav__actions .btn {
+      padding: 9px 20px;
+      font-size: 0.85rem;
+    }
 
     .nav__hamburger {
       display: none;
       flex-direction: column;
       gap: 5px;
-      padding: 8px;
+      padding: 10px 4px 10px 10px;
       cursor: pointer;
+      margin-right: -4px;
     }
     .nav__hamburger span {
       width: 22px;
@@ -1118,6 +1129,7 @@
     @media (max-width: 768px) {
       .nav__links, .nav__actions .btn { display: none; }
       .nav__hamburger { display: flex; }
+      .nav .container { padding: 0 20px; }
 
       .hero { padding: 72px 0 80px; }
 
@@ -1139,6 +1151,7 @@
 
     @media (max-width: 480px) {
       .container { padding: 0 16px; }
+      .nav .container { padding: 0 20px; }
       .section { padding: 56px 0; }
       .section--sm { padding: 40px 0; }
       .section--lg { padding: 72px 0; }
