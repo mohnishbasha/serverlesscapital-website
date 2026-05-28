@@ -17,7 +17,7 @@
 
 ## What We Do
 
-Serverless Capital is a pre-seed stage angel and syndicate. We back early-stage founders building AI agents, the payments they use, and the commerce they enable. We write the first check and work closely with founders from day one.
+Serverless Capital is a pre-seed stage angel and syndicate. We invest our own capital — so we commit to the long run and are not tied to a fund clock. We also bring capital from our partners and invest alongside them. We back early-stage founders building AI agents, the payments they use, and the commerce they enable. We write the first check and work closely with founders from day one.
 
 ---
 
@@ -36,9 +36,9 @@ Serverless Capital invests in three categories:
 ## Investment Parameters
 
 - **Stage:** Pre-seed
+- **Capital:** Own capital; partners co-invest alongside
 - **Initial check:** $150,000 to $500,000
-- **Follow-on:** $1,000,000 to $10,000,000
-- **Follow-on:** Reserved capital for follow-on in subsequent rounds
+- **Follow-on:** $1,000,000 to $10,000,000 (with partners)
 - **Geography:** Global
 
 ---
@@ -46,6 +46,7 @@ Serverless Capital invests in three categories:
 ## Philosophy
 
 - **We move early.** We back founders before the market catches on. Early conviction is our edge.
+- **Own capital, no fund clock.** We invest our own money and bring partners in alongside us. No artificial timelines, no pressure to exit on someone else's schedule.
 - **Hands-on from day one.** We help with go-to-market, recruiting, and follow-on funding. Not just a check.
 - **Fast decisions.** We give founders an answer within one week. No committees. No delays.
 
