@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy | Serverless Capital</title>
+  <meta name="description" content="Privacy Policy for Serverless Capital. Learn how we handle information collected through our website." />
+  <meta name="robots" content="noindex, follow" />
+  <link rel="canonical" href="https://serverlesscapital.com/privacy-policy.html" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%238E7DC0'/><text x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-size='18' font-family='serif' fill='white'>S</text></svg>" />
+  <style>
+    :root {
+      --bg:           #FAFAF8;
+      --bg-card:      #F5F1FA;
+      --bg-accent:    #EDE8F5;
+      --primary:      #8E7DC0;
+      --primary-dark: #6B5CA5;
+      --primary-light:#C4B8E3;
+      --text:         #252533;
+      --text-muted:   #7A7A90;
+      --border:       #E4DFF0;
+      --white:        #FFFFFF;
+      --font-serif:   'Playfair Display', Georgia, serif;
+      --font-sans:    'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      --max-w:        780px;
+      --nav-h:        72px;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+    body { font-family: var(--font-sans); background: var(--bg); color: var(--text); line-height: 1.6; overflow-x: hidden; }
+    a { text-decoration: none; color: inherit; }
+
+    .nav {
+      position: sticky; top: 0; z-index: 100;
+      height: var(--nav-h);
+      background: rgba(250,250,248,0.92);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav__inner {
+      max-width: 1200px; margin: 0 auto; padding: 0 24px;
+      height: 100%; display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav__logo {
+      display: flex; align-items: center; gap: 10px;
+      font-family: var(--font-serif); font-size: 1.2rem; font-weight: 600; color: var(--text);
+    }
+    .nav__logo-icon {
+      width: 36px; height: 36px; background: var(--primary); border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      color: white; font-size: 1rem; font-weight: 700;
+    }
+    .nav__back {
+      font-size: 0.85rem; color: var(--text-muted);
+      display: flex; align-items: center; gap: 6px;
+      transition: color 0.18s;
+    }
+    .nav__back:hover { color: var(--primary); }
+
+    .legal-wrap {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 64px 24px 96px;
+    }
+    .legal-label {
+      font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em;
+      text-transform: uppercase; color: var(--primary); margin-bottom: 12px;
+    }
+    .legal-wrap h1 {
+      font-family: var(--font-serif); font-size: 2.4rem; font-weight: 600;
+      line-height: 1.15; color: var(--text); margin-bottom: 10px;
+    }
+    .legal-effective {
+      font-size: 0.84rem; color: var(--text-muted); margin-bottom: 48px;
+      padding-bottom: 24px; border-bottom: 1px solid var(--border);
+    }
+
+    .legal-notice {
+      background: var(--bg-accent);
+      border: 1px solid var(--primary-light);
+      border-left: 4px solid var(--primary);
+      border-radius: 12px;
+      padding: 20px 24px;
+      margin-bottom: 40px;
+      font-size: 0.9rem;
+      color: var(--text);
+      line-height: 1.7;
+    }
+    .legal-notice strong { color: var(--primary-dark); }
+
+    .legal-wrap h2 {
+      font-family: var(--font-serif); font-size: 1.25rem; font-weight: 600;
+      color: var(--text); margin: 40px 0 12px;
+    }
+    .legal-wrap h3 {
+      font-size: 0.95rem; font-weight: 600; color: var(--text); margin: 24px 0 8px;
+    }
+    .legal-wrap p {
+      font-size: 0.92rem; color: var(--text-muted); line-height: 1.8; margin-bottom: 14px;
+    }
+    .legal-wrap ul {
+      list-style: disc; padding-left: 24px; margin-bottom: 14px;
+    }
+    .legal-wrap ul li {
+      font-size: 0.92rem; color: var(--text-muted); line-height: 1.8; margin-bottom: 6px;
+    }
+    .legal-wrap strong { color: var(--text); font-weight: 600; }
+    .legal-caps {
+      font-size: 0.9rem; color: var(--text); line-height: 1.75;
+      margin-bottom: 14px; font-weight: 500;
+    }
+
+    .legal-footer {
+      background: var(--text); color: rgba(255,255,255,0.6);
+      padding: 32px 24px; text-align: center; font-size: 0.8rem;
+    }
+    .legal-footer a { color: rgba(255,255,255,0.6); text-decoration: underline; }
+    .legal-footer a:hover { color: white; }
+
+    @media (max-width: 480px) {
+      .legal-wrap { padding: 40px 16px 72px; }
+      .legal-wrap h1 { font-size: 1.8rem; }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav__inner">
+    <a href="/" class="nav__logo">
+      <div class="nav__logo-icon">S</div>
+      <span>Serverless Capital</span>
+    </a>
+    <a href="/" class="nav__back">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      Back to Home
+    </a>
+  </div>
+</nav>
+
+<main>
+  <div class="legal-wrap">
+    <p class="legal-label">Legal</p>
+    <h1>Privacy Policy</h1>
+    <p class="legal-effective">Effective Date: May 28, 2026 &nbsp;·&nbsp; Last Updated: May 28, 2026</p>
+
+    <div class="legal-notice">
+      <strong>Summary:</strong> This website collects minimal data. We use Google Analytics to understand site traffic in aggregate. We do not collect personal information through any forms on this Site, and we do not sell your data to third parties.
+    </div>
+
+    <h2>1. Introduction</h2>
+    <p>Serverless Capital ("we," "us," or "our") operates the website at <strong>serverlesscapital.com</strong> (the "Site"). This Privacy Policy explains what information we collect when you visit the Site, how we use it, and your rights with respect to that information.</p>
+    <p>By accessing or using the Site, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree, please discontinue use of the Site.</p>
+    <p>This Privacy Policy does not apply to any information collected by Serverless Capital through other means, including through any investment or business relationship conducted outside of this Site.</p>
+
+    <h2>2. Information We Collect</h2>
+
+    <h3>2.1 Information Collected Automatically</h3>
+    <p>When you visit the Site, we and our third-party service providers automatically collect certain technical information through cookies and similar tracking technologies, including:</p>
+    <ul>
+      <li>IP address (anonymized where applicable)</li>
+      <li>Browser type and version</li>
+      <li>Operating system and device type</li>
+      <li>Pages visited and time spent on each page</li>
+      <li>Referring URL (the page you visited before arriving at our Site)</li>
+      <li>Date and time of your visit</li>
+      <li>General geographic location (country/city level)</li>
+    </ul>
+    <p>This information is collected via <strong>Google Analytics</strong> and is used only in aggregate form to understand how visitors use the Site. We do not use this data to identify individual visitors.</p>
+
+    <h3>2.2 Information You Voluntarily Provide</h3>
+    <p>This Site does not contain any contact forms, newsletter sign-ups, or other mechanisms for you to submit personal information directly to us. If you choose to book a call through the third-party scheduling link on this Site (Google Calendar), any information you provide is governed by Google's Privacy Policy, not ours.</p>
+
+    <h3>2.3 Information We Do Not Collect</h3>
+    <p>We do not collect:</p>
+    <ul>
+      <li>Names, email addresses, or phone numbers through this Site</li>
+      <li>Financial information or payment data</li>
+      <li>Sensitive personal information of any kind</li>
+      <li>Personal information from children under the age of 13</li>
+    </ul>
+
+    <h2>3. How We Use Information</h2>
+    <p>We use the automatically collected technical information for the following purposes:</p>
+    <ul>
+      <li>To understand how visitors interact with the Site and improve its content and performance</li>
+      <li>To monitor Site security and detect technical errors</li>
+      <li>To analyze traffic patterns and measure the effectiveness of our content</li>
+      <li>To comply with legal obligations</li>
+    </ul>
+    <p>We do not use any information collected through this Site to make investment decisions, conduct investor profiling, or engage in targeted advertising.</p>
+
+    <h2>4. Cookies and Tracking Technologies</h2>
+    <p>We use the following types of cookies on this Site:</p>
+
+    <h3>4.1 Analytics Cookies</h3>
+    <p>We use Google Analytics, a web analytics service provided by Google LLC. Google Analytics uses cookies to collect information about your use of the Site. The information generated by these cookies (including your IP address, which is anonymized) is transmitted to and stored by Google on servers in the United States. Google uses this information to evaluate your use of the Site, compile reports on Site activity, and provide other services relating to Site activity and internet usage.</p>
+    <p>You can opt out of Google Analytics tracking by installing the <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer" style="color:var(--primary);">Google Analytics Opt-out Browser Add-on</a>. Google's privacy practices are described at <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" style="color:var(--primary);">policies.google.com/privacy</a>.</p>
+
+    <h3>4.2 Essential Cookies</h3>
+    <p>This Site does not use any cookies beyond those set by Google Analytics. No persistent tracking cookies are set by Serverless Capital directly.</p>
+
+    <h3>4.3 Managing Cookies</h3>
+    <p>You may disable or delete cookies through your browser settings. Note that disabling cookies may affect the functionality of some websites, though this Site's core content remains accessible without cookies.</p>
+
+    <h2>5. Third-Party Services</h2>
+    <p>This Site links to or embeds third-party services, including:</p>
+    <ul>
+      <li><strong>Google Analytics</strong> — website analytics (Google LLC)</li>
+      <li><strong>Google Calendar</strong> — appointment scheduling (Google LLC)</li>
+      <li><strong>Google Fonts</strong> — web font delivery (Google LLC)</li>
+    </ul>
+    <p>When you interact with third-party services (such as clicking the booking link), your information is collected and processed by those third parties under their own privacy policies. Serverless Capital is not responsible for the privacy practices of any third-party service.</p>
+
+    <h2>6. Data Sharing and Disclosure</h2>
+    <p>We do not sell, rent, trade, or otherwise share any personal information with third parties for their own marketing purposes. We may share information only in the following limited circumstances:</p>
+    <ul>
+      <li><strong>Service Providers:</strong> With third-party vendors (such as Google Analytics) who process data on our behalf and are contractually obligated to protect it</li>
+      <li><strong>Legal Compliance:</strong> When required by applicable law, court order, or governmental authority</li>
+      <li><strong>Protection of Rights:</strong> To protect the rights, property, or safety of Serverless Capital, its affiliates, or others</li>
+      <li><strong>Business Transfers:</strong> In connection with a merger, acquisition, or sale of all or substantially all of our assets, in which case the acquiring entity will be bound by this Privacy Policy or provide notice of changes</li>
+    </ul>
+
+    <h2>7. Data Retention</h2>
+    <p>We retain automatically collected analytics data for a period of up to 26 months, consistent with Google Analytics default retention settings, after which it is automatically deleted. We do not retain any personal information submitted to third-party services accessed from this Site.</p>
+
+    <h2>8. International Data Transfers</h2>
+    <p>This Site is operated from the United States. If you access the Site from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where data protection laws may differ from those in your jurisdiction. By using the Site, you consent to such transfer.</p>
+    <p>For visitors in the European Economic Area (EEA) or United Kingdom, data transfers to the United States are made pursuant to applicable transfer mechanisms, including Google's Standard Contractual Clauses.</p>
+
+    <h2>9. Your Privacy Rights</h2>
+
+    <h3>9.1 California Residents (CCPA / CPRA)</h3>
+    <p>If you are a California resident, you have the following rights under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA):</p>
+    <ul>
+      <li>The right to know what personal information we collect, use, disclose, and sell</li>
+      <li>The right to delete personal information we have collected from you</li>
+      <li>The right to opt out of the sale of your personal information (we do not sell personal information)</li>
+      <li>The right to non-discrimination for exercising your privacy rights</li>
+    </ul>
+    <p>Because this Site collects only anonymized analytics data and does not collect identifiable personal information directly, we may be unable to identify or fulfill requests that require locating specific personal information tied to an individual. To exercise any of these rights, contact us using the information in Section 12.</p>
+
+    <h3>9.2 EEA and UK Residents (GDPR / UK GDPR)</h3>
+    <p>If you are located in the European Economic Area or United Kingdom, you may have rights under the General Data Protection Regulation (GDPR) or UK GDPR, including rights of access, rectification, erasure, restriction of processing, data portability, and the right to object to processing. To the extent we process any personal data subject to GDPR, our legal basis is our legitimate interest in understanding Site traffic and improving the Site.</p>
+
+    <h2>10. Children's Privacy</h2>
+    <p>This Site is intended for adults and is not directed to children under the age of 13. We do not knowingly collect any personal information from children under 13. If we become aware that we have inadvertently collected personal information from a child under 13, we will promptly delete it. If you believe we may have any information from or about a child under 13, please contact us.</p>
+
+    <h2>11. Security</h2>
+    <p>We implement commercially reasonable technical and organizational measures to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is completely secure. We cannot guarantee absolute security and disclaim all liability for any breach of security or unauthorized access to or disclosure of information.</p>
+
+    <h2>12. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. When we make material changes, we will update the "Last Updated" date at the top of this page. Your continued use of the Site after any changes constitutes your acceptance of the revised Privacy Policy. We encourage you to review this Privacy Policy periodically.</p>
+
+    <h2>13. Contact</h2>
+    <p>If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us through the <a href="https://calendar.app.google/srj97v25ygCC6jtAA?utm_source=serverlesscapital.com&utm_medium=website&utm_campaign=book-a-call" style="color:var(--primary);">Book a Call</a> link on our website.</p>
+
+  </div>
+</main>
+
+<footer class="legal-footer">
+  <p>&copy; <span id="year"></span> Serverless Capital. All rights reserved. &nbsp;·&nbsp;
+    <a href="/terms-of-use.html">Terms of Use</a> &nbsp;·&nbsp;
+    <a href="/privacy-policy.html">Privacy Policy</a>
+  </p>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</footer>
+
+</body>
+</html>
